@@ -322,6 +322,12 @@ nav h2:hover{
     transform: scale(1.1);
 }
 
+.team-img {
+    max-width: 80%; /* Adjust this value as needed */
+    height: auto;
+}
+
+
 
 /*** Testimonial ***/
 .testimonial-carousel::before {
